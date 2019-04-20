@@ -16,3 +16,7 @@ There is nothing to add, yolo.
 #### Future development
 The new Plexure uses a time-based x-plexure-api-key and device registration.
 If you know something about encryption look for the generation methods (DES encryption using first 8 bytes of co.vmob.sdk.android.encrypt.key as key)
+
+#### Legal stuff
+This doesn't work anymore and it is against McD ToS as you can imagine. 
+
