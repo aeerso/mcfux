@@ -14,8 +14,7 @@ Run via <code>python3 mcfux.py</code>
 There is nothing to add, yolo.
 
 #### Future development
-The new Plexure uses a time-based x-plexure-api-key and device registration.
-If you know something about encryption look for the generation methods (DES encryption using first 8 bytes of co.vmob.sdk.android.encrypt.key as key)
+Trying to understand the new auth system (Plexure >=2.58), more info at <a href="https://github.com/0xf77/mcfux/issues/2">#2</a>
 
 #### Legal stuff
 This doesn't work anymore and it is against McD ToS as you can imagine. 
